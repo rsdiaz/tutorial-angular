@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './hero.component.html',
   styleUrls: ['./hero.component.html'],
   styles: [`.hero {
-    background-image: url('/assets/img/green-leaves.jpg') !important;
+    background-image: url('assets/img/green-leaves.jpg') !important;
     background-size: cover;
     background-position: center center;
   }`]
