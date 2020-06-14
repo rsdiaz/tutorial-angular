@@ -3,11 +3,11 @@ import { Component, OnInit } from '@angular/core';
 @Component ({
   selector: 'hero',
   templateUrl: './hero.component.html',
-  styleUrls: ['./hero.component.html'],
+  styleUrls: ['./hero.component.css'],
   styles: [`.hero {
     background-image: url('assets/img/green-leaves.jpg') !important;
     background-size: cover;
-    background-position: center center;
+    background-position: bottom center;
   }`]
 })
 

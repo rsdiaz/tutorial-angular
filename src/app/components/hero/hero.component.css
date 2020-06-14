@@ -1,0 +1,8 @@
+.image img.is-rounded {
+  border: 12px solid;
+  transition: all 1.0s ease;
+}
+
+.image img.is-rounded:hover {
+  border-color: aquamarine;
+}
