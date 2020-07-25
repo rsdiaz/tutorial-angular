@@ -17,7 +17,7 @@ export class HeroComponent implements OnInit {
 
   constructor() {
     this.title = 'Roberto Serrano Diaz-Grande';
-    this.subtitle = 'Hola, me llamo';
+    this.subtitle = 'Hello World';
   }
 
   ngOnInit() {
